@@ -1,3 +1,4 @@
+import math
 import jax.numpy as jnp
 from flax import linen as nn
 from minesweeper import MinesweeperGame
